@@ -1,0 +1,14 @@
+ObjectType = Image
+NDims = 3
+BinaryData = True
+BinaryDataByteOrderMSB = False
+CompressedData = False
+TransformMatrix = 1 0 0 0 1 0 0 0 1
+Offset = 0 0 0
+CenterOfRotation = 0 0 0
+ElementSpacing = 1 1 1
+DimSize = 400 450 64
+AnatomicalOrientation = ???
+ElementType = MET_FLOAT
+ElementDataFile = projections.raw
+OriName =skull_C0_m2.00_C1_m2.00_C2_m2.00_C3_m2.00_C4_m2.00_C5_m2.00_fstt_C0_m2.00_C1_m2.00_C2_m2.00_C3_p2.00_C4_m2.00_proj_2_teeth_8_jaw_9_0_volume.raw
