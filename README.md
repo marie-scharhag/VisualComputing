@@ -4,7 +4,8 @@ Assignments and project of the VisualComputing elective in summersemester 2021 a
 ## Objectives of the lecture
 - Answering the question „What is Visual Computing?“
 - Refreshing your linear algebra / computer graphics skills
-- Learning (basics) about ➡ Image formation
+- Learning (basics) about
+  - Image formation
   - Image processing
   - Segmentation
   - Feature detection and matching
